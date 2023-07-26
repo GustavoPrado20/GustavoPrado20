@@ -4,7 +4,7 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-86a592219/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.henrique.igt@gmail.com?subject=&body=)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPrado20&show icons=true&theme=radical)
+![GustavoPrado20 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPrado20&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
