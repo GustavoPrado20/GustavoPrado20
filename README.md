@@ -5,6 +5,7 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.henrique.igt@gmail.com?subject=&body=)
 
 ![GustavoPrado20 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPrado20&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPrado20&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
